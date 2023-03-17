@@ -1,0 +1,22 @@
+{
+  "name": "tsx-icon-factory",
+  "version": "1.0.0",
+  "description": "A icon factory for TSX and JSX. Feather icons are already included (thanks to colebemis).",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test_iconfactory"
+  },
+  "keywords": [
+    "Icons",
+    "JSX",
+    "Feather-Icons",
+    "Feather",
+    "Web",
+    "development"
+  ],
+  "author": "mnpt97",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
